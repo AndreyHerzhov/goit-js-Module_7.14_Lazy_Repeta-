@@ -36,3 +36,47 @@ li {
   margin-top: 30px;
   margin-left: 30px;
 }
+
+.container {
+  margin-left: 15px;
+  margin-top: 10px;
+  display: flex;
+  justify-content: space-between;
+  padding: 40px;
+  width: 300px;
+  background-color: blueviolet;
+}
+
+h1 {
+  text-align: center;
+}
+ 
+p {
+  font-size: 30px;
+}
+
+.modal {
+  padding: 10px;
+  background-color: aqua;
+  border-radius: 25px;
+  height: 700px;
+}
+
+h4 {
+  font-family: 'Courier New', Courier, monospace;
+ 
+}
+
+.wrapper {
+  background-color: aliceblue;
+  margin-top: 30px;
+  
+  width: 600px;
+  height: 300px;
+  overflow-y: scroll;
+}
+
+.throttle_container {
+  margin-top: 30px;
+  margin-left: 30px;
+}
