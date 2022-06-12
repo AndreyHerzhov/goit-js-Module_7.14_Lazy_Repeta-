@@ -42,7 +42,7 @@ const tech = [
  }
   const newMarkUp = createList(tech)
 
-  refs.list.innerHTML = newMarkUp
+refs.list.innerHTML = newMarkUp
 
 refs.input.addEventListener('input', _.throttle(filterList,3000))
 
